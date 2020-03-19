@@ -114,6 +114,13 @@ export default [
                 default: '<code>200px</code>'
             },
             {
+                name: '<code>dropdown-position</code>',
+                description: 'Opening position od dropdown',
+                type: 'String',
+                values: 'top, bottom, auto',
+                default: '<code>auto</code>'
+            },
+            {
                 name: 'Any native attribute',
                 description: '—',
                 type: '—',
