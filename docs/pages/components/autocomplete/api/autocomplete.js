@@ -115,9 +115,9 @@ export default [
             },
             {
                 name: '<code>dropdown-position</code>',
-                description: 'Opening position od dropdown',
+                description: 'Position of dropdown',
                 type: 'String',
-                values: 'top, bottom, auto',
+                values: '<code>top</code>, <code>bottom</code>, <code>auto</code>',
                 default: '<code>auto</code>'
             },
             {
